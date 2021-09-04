@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364270351183",
+    "project_id": "yasaline-40210",
+    "storage_bucket": "yasaline-40210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364270351183:android:0a02f7c301922097c80b3a",
+        "android_client_info": {
+          "package_name": "com.company.yasaline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364270351183-29kcdu9v9l7doiv2fbc0kt8h1a6r3uj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7c0qLxkH7VT1twtqojWliiJINoCAxrXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364270351183-29kcdu9v9l7doiv2fbc0kt8h1a6r3uj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
